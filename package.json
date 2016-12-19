@@ -1,0 +1,19 @@
+{
+  "name": "wordpress-core-css",
+  "version": "1.0.0",
+  "description": "`npm` package for wordpress core styles.",
+  "main": "wordpress-core-css.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesignImage/wordpress-core-css.git"
+  },
+  "author": "Keith Light",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/DesignImage/wordpress-core-css/issues"
+  },
+  "homepage": "https://github.com/DesignImage/wordpress-core-css#readme"
+}
